@@ -1,4 +1,4 @@
-````markdown
+
 # NOVA — Responsive Landing Page
 
 A modern, responsive landing page designed and developed as part of **Aptura Tech Solution Batch 3 Internship — Week 1, Task 2**.
@@ -314,4 +314,4 @@ Final screenshots, testing, documentation, and deployment details will be added 
 This project was created for educational and internship purposes.
 
 ```
-```
+
