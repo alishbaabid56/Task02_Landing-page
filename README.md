@@ -262,18 +262,13 @@ npm run build
 
 ---
 
-## 📸 Screenshots
-
-Screenshots will be added after the final responsive testing of the project.
-
-Planned screenshots:
-
-* Desktop view
-* Tablet view
-* Mobile view
-* Individual section views where required
-
 ---
+
+## 🎥 Video Demonstration
+
+A complete walkthrough of the NOVA responsive landing page is available below:
+
+[▶️ Watch Project Demo Video](https://drive.google.com/file/d/150gb1UQctCi4-ntc3SGMJOWKuXxUdXHQ/view?usp=sharing)
 
 ## 📄 Documentation
 
